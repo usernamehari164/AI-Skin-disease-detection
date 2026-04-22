@@ -36,9 +36,4 @@ This project has been successfully converted from a Flask-only application to a 
 ## Backend `.env` Configuration
 The backend uses a `.env` file for configuration:
 ```env
-PORT=5000
-MONGODB_URI=mongodb://localhost:27017/skin_disease_detection
-JWT_SECRET=your_super_secret_jwt_key
-MODEL_SERVICE_URL=http://localhost:5001/predict
-UPLOAD_PATH=uploads/
-```
+
